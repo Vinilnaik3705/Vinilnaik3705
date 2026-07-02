@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinilnaik3705)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([#](https://www.linkedin.com/in/vinilnaik/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinilnaik/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinilnaikdharavath3705@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://codolio.com/profile/Vinil%20Naik)
 
