@@ -106,40 +106,11 @@ FinBERT-based financial news classifier — 82.3% accuracy / 0.768 macro F1, com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=100%"/>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vinilnaik3705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinilnaik3705&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinilnaik3705&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Vinilnaik3705&theme=darkhub&no-frame=true&row=2&column=3" height="170"/>
-
-</div>
-
-<sub>ℹ️ These are community-hosted cards (not GitHub-official) — if one ever shows a broken icon, hard refresh (Ctrl/Cmd+Shift+R); it's almost always a temporary rate-limit, not a broken link.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=100%"/>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Vinilnaik3705/Vinilnaik3705/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=100%"/>
-
-
-### 🎧 Now Playing
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00c6ff&bar_color_cover=false" width="380" />
-</div>
-
-<sub>⚙️ Setup needed: log in at <a href="https://spotify-github-profile.vercel.app/login">spotify-github-profile.vercel.app/login</a> with your Spotify account, copy the `uid` it gives you, and swap it into the `uid=` param above.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=100%"/>
 
