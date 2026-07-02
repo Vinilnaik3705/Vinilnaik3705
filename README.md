@@ -114,20 +114,24 @@ FinBERT-based financial news classifier — 82.3% accuracy / 0.768 macro F1, com
 
 ---
 
-## 📈 Contribution Graph
+🎯 Roadmap to 2026
+
+text[███████████████████████████████░░░] 92%  DSA — 200+ problems solved
+[████████████████████████████░░░░░░] 85%  Agentic AI (LangGraph, n8n, RAG)
+[██████████████████████████░░░░░░░░] 78%  Full-Stack (React, Next.js, FastAPI)
+[████████████████████████░░░░░░░░░░] 70%  MLOps / Model Deployment
+[███████████████████████████████████] 100% Final Year Project — HR Automation Agent
+
+🎓 Milestone📌 StatusB.Tech CSE, NIT JamshedpurFinal Year — Graduating 2026HR Automation Agent (FastAPI · n8n · GPT-4o-mini)🟢 In active developmentAQIfy — 72hr AQI Forecasting Pipeline🟢 In active developmentCampus Placements — SDE / ML Engineer🔍 Actively interviewingOpen Source Contributions🌱 Ramping up
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=100%"/>
+💬 Random Dev Quote
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinilnaik3705&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vinilnaik3705&color=00c6ff&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=150&section=footer" width="100%"/>
+Thanks for stopping by — let's build something great together! 🚀
 
 </div>
