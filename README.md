@@ -3,16 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Vinil%20Naik%20Dharavath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SDE%20%7C%20ML%20Engineer%20%7C%20Gen%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Vinilnaik3705">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+Agentic+AI+Developer;Building+HR+Automation+Agents;LangGraph+%7C+n8n+%7C+FastAPI+%7C+React;Final+Year+CS+%40+NIT+Jamshedpur;Open+to+SDE+%2F+ML+Engineer+Roles+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+Agentic+AI+Developer;Building+HR+Automation+Agents;LangGraph+%7C+n8n+%7C+FastAPI+%7C+React;Final+Year+CS+%40+NIT+Jamshedpur;Open+to+SDE+%2F+ML+Engineer+Roles+2026" alt="Typing SVG" />
 </a>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4d8bd2ac0b6c.gif" width="450">
 
 <br/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinilnaik3705)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinilnaikdharavath3705@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://codolio.com/profile/Vinil%20Naik)
@@ -39,15 +37,13 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,fastapi,flask,postgres,mongodb,redis,docker,aws,git,github,vscode,figma&theme=dark" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
+![GPT--4o--mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
@@ -57,21 +53,42 @@
 
 ### 🚧 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="#">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=HR-Automation-Agent&theme=tokyonight&hide_border=true" />
-</a>
-<a href="#">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=Kryonex&theme=tokyonight&hide_border=true" />
-</a>
+**[Autonomous Recruitment Agent](https://github.com/Vinilnaik3705/Autonomous_Recruitment_Agent)**
+Agentic HR platform automating resume parsing, candidate profiling & ranking — FAISS + BM25 + RRF retrieval with cross-encoder reranking.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-> 🔹 **HR Automation Agent** — agentic recruitment platform with resume ranking, FAISS+BM25+RRF retrieval & cross-encoder reranking
-> 🔹 **AQI Forecast Engine** — ensemble ML pipeline with delta-based targets & walk-forward CV for 72hr air-quality prediction
-> 🔹 **Kryonex** — crypto trading simulator with a Groq-powered LLM market analyst & live Binance data
-> 🔹 **Market Trend Predictor** — FinBERT-based financial news classifier, 82.3% accuracy / 0.768 macro F1
+**[Kryonex](https://github.com/Vinilnaik3705/Kryonex)**
+Full-stack crypto trading simulator with live TradingView charts, real-time Binance data & a Groq-powered LLM market analyst.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Market Trend Predictor](https://github.com/Vinilnaik3705/Market-Trend-Predictor)**
+FinBERT-based financial news classifier — 82.3% accuracy / 0.768 macro F1, combining sentiment data with yfinance labels.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**AQI Forecast Engine**
+72-hour air-quality prediction ensemble (LightGBM/XGBoost) with delta-based targets & walk-forward CV for Indian cities.
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<sub>⚠️ Update the AQI repo link once it's pushed/renamed on GitHub — I used a placeholder name since your screenshot cut it off.</sub>
 
 ---
 
@@ -79,31 +96,33 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinilnaik3705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinilnaik3705&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinilnaik3705&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinilnaik3705&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinilnaik3705&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Vinilnaik3705&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<sub>ℹ️ These are community-hosted cards (not GitHub-official), so if one ever shows a broken icon, just do a hard refresh (Ctrl/Cmd+Shift+R) — it's almost always a temporary rate-limit, not a broken link.</sub>
+
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Vinilnaik3705/Vinilnaik3705/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>⚙️ This animates automatically via a GitHub Action — setup instructions are below.</sub>
+<sub>⚙️ This is generated by <b>your own</b> GitHub Action (first-party, no rate limits) — see <code>snake.yml</code> below to activate it. It'll show broken until that workflow runs once.</sub>
 
 ---
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinilnaik3705&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vinilnaik3705&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
