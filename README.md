@@ -1,29 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vinil Naik Dharavath
-=============================================================================================================================================
+<div align="center">
 
-Web Developer and Gen AI Enthusiast
------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Vinil%20Naik%20Dharavath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SDE%20%7C%20ML%20Engineer%20%7C%20Gen%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-I’m a passionate developer with strong interests in Full Stack Development, Generative AI, Machine Learning, and Deep Learning. I enjoy building modern web applications that are not only visually clean and user-friendly, but also backed by strong logic and scalable backend systems. Along with creating full stack projects, I’m actively exploring how AI can be integrated into real-world applications to make them smarter, faster, and more efficient.
+<a href="https://github.com/Vinilnaik3705">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+Agentic+AI+Developer;Building+HR+Automation+Agents;LangGraph+%7C+n8n+%7C+FastAPI+%7C+React;Final+Year+CS+%40+NIT+Jamshedpur;Open+to+SDE+%2F+ML+Engineer+Roles+2026" alt="Typing SVG" />
+</a>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [vinilnaikdharavath3705@gmail.com](mailto:vinilnaikdharavath3705@gmail.com)
-* 🧠  I'm currently learning Gen AI and Deep Learning
-* 👥  I'm looking to collaborate on Gen AI and Full Stack development Projects
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+<br/>
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://www.github.com/Vinilnaik3705" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Vinil Naik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@VinWell Creations" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-### Badges
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinilnaikdharavath3705@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://codolio.com/profile/Vinil%20Naik)
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/Vinilnaik3705"><img src="https://github-readme-stats.vercel.app/api?username=Vinilnaik3705&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0f172a&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Vinilnaik3705's GitHub stats" /></a>
+---
 
-<b>Top Repositories</b>
+### 🧑‍💻 About Me
 
-<div width="100%" align="center"><a href="https://github.com/Vinilnaik3705/Autonomous_Recruitment_Agent" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=Autonomous_Recruitment_Agent&title_color=0f172a&text_color=ffffff&icon_color=0f172a&bg_color=7c2d12&hide_border=true&locale=en" /></a><a href="https://github.com/Vinilnaik3705/TradeSim" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=TradeSim&title_color=0f172a&text_color=ffffff&icon_color=0f172a&bg_color=7c2d12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- 🎓 Final-year **B.Tech CSE** student at **NIT Jamshedpur**, graduating 2026
+- 🚀 Building **agentic AI systems** — HR Automation Agent (FastAPI, PostgreSQL, n8n, GPT-4o-mini, Sentence Transformers)
+- 🌫️ Currently shipping a **72-hour AQI forecasting** ML pipeline (LightGBM/XGBoost ensemble) for Indian cities
+- 🧩 200+ DSA problems solved · JEE Mains AIR 459 (94.92 percentile)
+- 🌱 Exploring the intersection of **full-stack engineering** and **Generative AI**
+- 🎯 Targeting **SDE** and **ML Engineer** roles — Campus Placements 2026
+- ⚡ Fun fact: I debug production systems for breakfast (and Postgres queries for lunch)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,fastapi,flask,postgres,mongodb,redis,docker,aws,git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+</div>
+
+---
+
+### 🚧 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=HR-Automation-Agent&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinilnaik3705&repo=Kryonex&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 🔹 **HR Automation Agent** — agentic recruitment platform with resume ranking, FAISS+BM25+RRF retrieval & cross-encoder reranking
+> 🔹 **AQI Forecast Engine** — ensemble ML pipeline with delta-based targets & walk-forward CV for 72hr air-quality prediction
+> 🔹 **Kryonex** — crypto trading simulator with a Groq-powered LLM market analyst & live Binance data
+> 🔹 **Market Trend Predictor** — FinBERT-based financial news classifier, 82.3% accuracy / 0.768 macro F1
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinilnaik3705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinilnaik3705&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinilnaik3705&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Vinilnaik3705/Vinilnaik3705/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub>⚙️ This animates automatically via a GitHub Action — setup instructions are below.</sub>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vinilnaik3705&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vinilnaik3705&color=00c6ff&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
