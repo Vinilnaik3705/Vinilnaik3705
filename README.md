@@ -119,10 +119,12 @@ FinBERT-based financial news classifier — 82.3% accuracy / 0.768 macro F1, com
 
 ---
 
-### 🏆 Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinilnaik3705&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinilnaik3705&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 ---
